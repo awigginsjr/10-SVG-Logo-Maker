@@ -11,7 +11,7 @@ The following image demonstrates the web application's appearance and functional
 
 Demo Link ~ [](will add here)
 
-![screenshot](will add here)
+![screenshot](/assets/images/svgappscreenshot.png)
 
 ## Usage
 
