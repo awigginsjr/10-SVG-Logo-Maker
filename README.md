@@ -9,7 +9,7 @@ The application prompts the user to select a color and shape, provide text for t
 
 The following image demonstrates the web application's appearance and functionality:
 
-Demo Link ~ [](will add here)
+Demo Link ~ [https://drive.google.com/file/d/1XQLfFmikmIrTMEm_Ihz7SiyehBv0XOX2/view](https://drive.google.com/file/d/1XQLfFmikmIrTMEm_Ihz7SiyehBv0XOX2/view)
 
 ![screenshot](/assets/images/svgappscreenshot.png)
 
@@ -25,4 +25,4 @@ Demo Link ~ [](will add here)
 
 GitHub ~ [https://github.com/awigginsjr](https://github.com/awigginsjr)
 
-Repository ~ [](will add here )
+Repository ~ [https://github.com/awigginsjr/10-SVG-Logo-Maker.git](https://github.com/awigginsjr/10-SVG-Logo-Maker.git)
